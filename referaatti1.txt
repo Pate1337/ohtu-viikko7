@@ -1,0 +1,23 @@
+Tero Huomo esittelee tutkielmassaan viisi käytäntöä, joita käytetään ohjelmisto-
+arkkitehtuurin sisällyttämiseen ketteriin ohjelmistotuotantomenetelmiin[1].
+Ensimmäinen näistä on Rawsthornen vuonna 2007 esittelemä sprint 0. Se on noin
+viikon mittainen ensimmäinen sprintti, jossa suunitellaan tarkasti ohjelman arkki-
+tehtuuri. Se on saanut paljon kritiikkiä ketterien menetelmien pioneereilta, eikä
+sitä tästä syystä juuri käytetä.
+Toinen keino on eriyttää arkkitehtuurin suunnittelu kokonaan omalle arkkitehti-
+ryhmälle. Myös tämä keino on ristiriidassa ketterien menetelmien kanssa.
+Kolmas keino on suunnittelupiikit, joita toteutetaan iteraatioiden aikana.
+Niissä ratkotaan pääsääntöisesti järjestelmän laajentumisesta aiheutuvia
+ongelmia. Suunnittelupiikkejä on käytetty onnistuneesti ketteriä menetelmiä
+käyttävissä projekteissa.
+Neljäs keino on pitää jonkin kehitysjakson tilalla arkkitehtuurijakso, joka on
+ikään kuin pidennetty versio suunnittelupiikistä. Tämä kuitenkin aiheuttaa
+samankaltaisia ongelmia, kuin sprint 0 ja yleisesti ottaen asiakas voi olla
+hankala suostutella arkkitehtuurijakson pitämiseen.
+Viimeisenä keinona Huomo esittelee arkkitehtuuritarinat. Ne ovat täysin kuten
+product backlogissa olevat user storyt, paitsi ne eivät näy asiakkaalle ja ne
+sisältävät ehdotuksia arkkitehtuurin parantamiskeinoista. Tämä keino ei ole
+ristiriidassa ketterien menetelmien kanssa. 
+
+Lähde:
+1. Tero Huomo - https://www.cs.helsinki.fi/u/mluukkai/ohtu/huomo-kandi.pdf

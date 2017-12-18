@@ -1,0 +1,21 @@
+Eero-Veikko Laine esittelee tutkielmassaan tärkeitä ohjelmistotuotannon johtamisen
+piirteitä. Hän esittelee Pinkowskan listaamat kuusi tärkeää taitoa johtajalle;
+Henkilöstöhallinto, tiimihallinto, konfliktinhallinta, viestinnän hallinta,
+itsehallinta ja johtajuus. Edellä luetelluista käytetään nimitystä pehmeät taidot.
+El-Sabaanin mukaan johtajan tekninen osaaminen on merkityksettömämpää vuorovaikutus-
+taitoihin ja organisointikykyihin verrattuna. Sen sijaan tutkijoiden Faraj ja
+Sambamurthyn mukaan tärkein johtajuuden piirre on koordinointi ja johtajan
+tekniset taidot.
+Johtaminen jaetaan kahteen ääripäähän, ohjaava ja voimaannuttava johtajuus, joista
+parempana pidetään voimaannuttavaa johtamista. Voimaannuttavat johtajat rohkaisevat
+oma-aloitteisuuteen.
+Ketterissä menetelmissä projektipäälliköllä on rooli toiminnan helpottajana ja
+mahdollistajana, mutta ei kontrolloijana. Hänen tehtävänsä on esitellä kysymyksiä
+kehittäjätiimin jäsenille ja varmistaa, että heidän on helppo tehdä työtään ja
+että he saavat kaiken tarvitsemansa. Koko projektipäällikön roolia onkin
+kyseenalaistettu ketterissä menetelmissä, koska tämän työtehtävä ei varsinaisesti
+vastaa perinteistä johtajan roolia. Scrumissa projektipäällikön roolia hoitaa
+Scrum Master.
+
+Lähde:
+Eero-Veikko Laine - https://www.cs.helsinki.fi/u/mluukkai/ohtu/laine-kandi.pdf

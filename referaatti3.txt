@@ -1,0 +1,10 @@
+Lauri Suomalainen kertoo tutkielmassaan erilaisten ohjelmistotuotantomenetelmien
+synnystä ja kehityksestä. Hän esittelee useita menetelmiä, joista ensimmäinen on
+Winston Roycen vuonna 1970 esittelemä vesiputousmalli. Malli tunnetaan toiselta nimeltään lineaarisena mallina ja nimensä mukaisesti siinä edetään lineaarisesti työvaiheesta toiseen.
+Seuraavaksi Suomalainen esittelee inkrementaaliset ja iteratiiviset mallit. Ne saivat alkunsa vuonna 1994 ja niiden molempien työvaiheet jakautuvat useaan iteraatioon.
+Myös spiraalimalli on iteeraatioittain etenevä ohjelmistotuotantomenetelmä. Se koostuu neljästä työvaiheesta seuraavassa järjestyksessä; Tavoitteen määrittely, riskien arviointi ja minimointi, kehitys ja validointi sekä seuraavan vaiheen suunnittelu.
+Rational Unified Process eli RUP on 90-luvulla kehitetty prosessimalli. RUP:in iteraatiot sisältävät neljä vaihetta; Aloitusvaihe, tarkentamisvaihe, rakennusvaihe sekä siirtymävaihe.
+Viimeisenä jo olemassa olevista ohjelmistotuotantomenetelmistä Suomalainen kertoo ketteristä menetelmistä, jotka ovat olleet laajasti käytössä 2000-luvulla. Erityisesti hän perehtyy Scrumiin, jonka kehitti Ken Schwaber vuonna 1996.
+
+Lähde:
+Lauri Suomalainen - https://www.cs.helsinki.fi/u/mluukkai/ohtu/suomalainen-kandi.pdf
